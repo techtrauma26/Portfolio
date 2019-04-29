@@ -1516,8 +1516,8 @@ form.ts-labels-inside-input .form-group label.focused,
     position: absolute;
     top: 0;
     left: 0;
-    width: 101px;
-    height: 101px;
+    width: 101%;
+    height: 101%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -2873,4 +2873,9 @@ E. Template Specific Elements
     .ts-carousel-centered .owl-nav .owl-prev {
         left: 2.5rem;
     }
+}
+ 
+#pImg {
+    height: 200px;
+    width: 300px !important;
 }

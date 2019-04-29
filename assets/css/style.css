@@ -1516,8 +1516,8 @@ form.ts-labels-inside-input .form-group label.focused,
     position: absolute;
     top: 0;
     left: 0;
-    width: 101%;
-    height: 101%;
+    width: 101px;
+    height: 101px;
     text-align: center;
     display: flex;
     flex-direction: column;

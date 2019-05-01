@@ -1233,7 +1233,7 @@ blockquote h6 {
 .ts-link-arrow-effect {
     overflow: hidden;
     display: inline-block;
-    font-size: .90rem;
+    font-size: .75rem;
     text-transform: uppercase;
     font-weight: 700;
     color: #fff;
@@ -1620,7 +1620,7 @@ form.ts-labels-inside-input .form-group label.focused,
 }
 
 .ts-item-header {
-    margin-bottom: 1.5rem;
+ 
     position: relative;
 }
 
@@ -1649,8 +1649,8 @@ form.ts-labels-inside-input .form-group label.focused,
 }
 
 .ts-item-footer {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+
+
 }
 
 /*-------------------------------------------
@@ -1921,9 +1921,7 @@ iframe div {
     color: #f26c4f;
     font-weight: 400;
 }
-#progressSkills {
-    padding-right: 100px;
-}
+
 /*-------------------------------------------
   -- Select
 -------------------------------------------*/
@@ -2874,8 +2872,7 @@ E. Template Specific Elements
         left: 2.5rem;
     }
 }
- 
-#pImg {
-    height: 200px;
-    width: 300px !important;
+#imgP{
+    height: 250px !important;
+    width: 190px !important;
 }

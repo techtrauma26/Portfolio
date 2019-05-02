@@ -1517,7 +1517,7 @@ form.ts-labels-inside-input .form-group label.focused,
     top: 0;
     left: 0;
     width: 101%;
-    height: 101%;
+    height:101%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -2875,9 +2875,3 @@ E. Template Specific Elements
 #imgP{
     height: 250px !important;
     width: 190px !important;
-}
-#skillsimg {
-    height: 200px;
-    width:150px;
-    
-}

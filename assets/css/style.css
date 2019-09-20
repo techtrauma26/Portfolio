@@ -351,7 +351,7 @@ B. Helpers
 }
 
 .ts-column-count-4 {
-    column-count: 4;
+    column-count: 5;
 }
 
 /*-------------------------------------------
@@ -792,15 +792,15 @@ p {
     font-size: .8125rem !important;
 }
 
-.ts-xs-text-center {
-}
+/* .ts-xs-text-center {
+} */
 
 /*-------------------------------------------
   -- Title
 -------------------------------------------*/
 
-.ts-title {
-}
+/* .ts-title {
+} */
 
 .ts-title h5 {
     font-weight: normal;
@@ -1361,8 +1361,8 @@ blockquote h6 {
     border: none;
 }
 
-.ts-card__image {
-}
+/* .ts-card__image {
+} */
 
 /*-------------------------------------------
   -- Circle
@@ -1647,11 +1647,11 @@ form.ts-labels-inside-input .form-group label.focused,
 .ts-item-body {
     flex: 1 1 auto;
 }
-
+/* 
 .ts-item-footer {
 
 
-}
+} */
 
 /*-------------------------------------------
   -- List
@@ -2392,10 +2392,10 @@ E. Template Specific Elements
     position: absolute;
     width: .75rem;
 }
-
+/* 
 .ts-time-line__horizontal .ts-time-line__item .ts-box {
-    /*triangle*/
-}
+    triangle
+} */
 
 .ts-time-line__horizontal .ts-time-line__item .ts-box:after {
     border-color: #fff transparent transparent transparent;
@@ -2755,7 +2755,7 @@ E. Template Specific Elements
     }
 
     [class*="ts-column-count-"] {
-        column-count: 1;
+        column-count: 5;
     }
 
     .ts-xs-text-center {
@@ -2875,3 +2875,4 @@ E. Template Specific Elements
 #imgP{
     height: 250px !important;
     width: 190px !important;
+}
